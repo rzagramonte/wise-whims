@@ -18,7 +18,7 @@ This project serves as a testament to my proficiency in integrating various fron
 
 ## Optimizations
 
-Looking ahead, there are several avenues for optimizing the "WiseWhims_API-Advice" project:
+Looking ahead, there are several avenues for optimizations:
 
 1. Caching Mechanism:
 
