@@ -1,4 +1,4 @@
-# Wise Whims
+# WiseWhims
 
 WiseWhims is a simple web application that provides advice based on user input. Users can enter a keyword or phrase into the input field and click the "Get Advice" button. The application then fetches advice related to the entered keyword from the Adviceslip API and displays it on the page. The user interface is minimalistic, featuring a clean design with an input field, a button for triggering the advice retrieval, and a paragraph element for displaying the advice.
 
